@@ -1,0 +1,5 @@
+INTRO_BACKGROUND	: Clarv - Pixel World [Bass Rebels Release]
+START_COUNT		: 捞己泅 格家府 扁刘
+PLAY_BACKGORUND_1	: Different Heaven - Nekozilla [NCS Release]
+GAMEOVER		: The Fat Rat - Unity [Loop ver.]
+HARD_DROP		: 

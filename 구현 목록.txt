@@ -1,0 +1,28 @@
+1. Tetris System
+ -random generator (C)
+ -ghost piece (C)
+ -lock delay (C)
+
+2. Block Move
+ -left (C)
+ -right (C)
+ -soft drop (C)
+ -hard drop (C)
+ -DAS(delayed auto shift)
+
+3. Block Rotate
+ -SRS(super rotation system) (C)
+ -3-corner T-Spin (C)
+
+4. Show next three block system (C)
+
+5. Hold block system (C)
+
+6. Scoring System
+ -점수 체계.txt (C)
+
+7. Song by
+ -sounds/sound copyright.txt (C)
+
+8. 레벨
+ -레벨 체계.txt (C)

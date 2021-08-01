@@ -1,0 +1,20 @@
+* 현재 레벨 x 5라인 클리어 시 레벨업
+* 레벨 증가 시 초과된 클리어 라인은 무시
+
+*라인 클리어 인정 값
+
+single			1
+double			3
+triple			5
+tetris			8
+
+t-spin mini		1
+t-spin mini single	2
+t-spin mini double	6
+
+tspin			4
+tspin single		8
+tspin double		12
+tspin triple		16
+
+BTB			기본 * 1.5 (소수점 버림)

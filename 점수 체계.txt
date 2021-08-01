@@ -1,0 +1,22 @@
+모든 점수는 기본 점수 * 현재 레벨
+
+기본점수
+single			100
+double			300
+triple			500
+tetris			800
+
+t-spin mini 		100
+t-spin mini single	200
+t-spin mini double	600
+
+t-spin			400
+t-spin single		800
+t-spin double		1200
+t-spin triple		1600
+
+보너스 점수
+BTB			기본 * 1.5
+combo			50 * combo count
+soft drop		1 per cell
+hard drop		2 per cell
